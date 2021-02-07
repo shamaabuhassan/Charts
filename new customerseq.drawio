@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:26:51.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="KwLuPcM4ckl4Qbk-HH00" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T18:30:55.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="QA77qCFmKBa0PcOn0jHH" version="14.2.9" type="github">
   <diagram id="mKXBBZF9e8lr7zKGx8BQ" name="Page-1">
     <mxGraphModel dx="1021" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="243" y="530" width="115" height="523" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-3">
-          <mxGeometry x="45" y="60" width="10" height="230" as="geometry" />
+          <mxGeometry x="45" y="60" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-5" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry x="-0.1244" relative="1" as="geometry">
@@ -38,9 +38,9 @@
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-8">
           <mxGeometry x="56" y="68" width="10" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-10" value="then she can by enter&#xa;parameters username password&#xa;name area telephone and&#xa;others" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.218;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-4" target="gzX4vs_TeUbCvZC3ZS7W-8">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-10" value="then she can by enter&#xa;parameters username &#xa;password&#xa;name area telephone and&#xa;others" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="gzX4vs_TeUbCvZC3ZS7W-8">
           <mxGeometry x="0.0083" relative="1" as="geometry">
-            <mxPoint x="298" y="672" as="sourcePoint" />
+            <mxPoint x="310" y="670" as="sourcePoint" />
             <mxPoint x="444" y="670" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -58,7 +58,7 @@
           <mxGeometry x="551" y="530" width="115" height="545" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-16" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-15">
-          <mxGeometry x="52.5" y="188" width="10" height="40" as="geometry" />
+          <mxGeometry x="52.5" y="188" width="10" height="72" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-17" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,28 +80,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-23" value="update topup data in topup&#xa;table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.496;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gzX4vs_TeUbCvZC3ZS7W-13">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-23" value="validate and save in meter table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.496;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gzX4vs_TeUbCvZC3ZS7W-13">
           <mxGeometry x="0.1321" relative="1" as="geometry">
             <mxPoint x="768" y="832" as="sourcePoint" />
             <mxPoint x="927" y="760" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-24" value="the meter chaeged" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.487;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.487;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-13" target="gzX4vs_TeUbCvZC3ZS7W-11">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-24" value="the meter saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.487;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.487;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-13" target="gzX4vs_TeUbCvZC3ZS7W-11">
           <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
             <mxPoint x="607.5" y="860" as="targetPoint" />
             <mxPoint x="917.5" y="860" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-25" value="or she can" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.335;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-4" target="gzX4vs_TeUbCvZC3ZS7W-15">
-          <mxGeometry x="-0.1704" relative="1" as="geometry">
-            <mxPoint x="290.00499999999977" y="670.003" as="sourcePoint" />
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-25" value="or she can create new meter by enter user id meter id and &#xa; inital amount&#xa; " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.203;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gzX4vs_TeUbCvZC3ZS7W-12">
+          <mxGeometry x="-0.1606" y="-15" relative="1" as="geometry">
+            <mxPoint x="298" y="845" as="sourcePoint" />
             <mxPoint x="450.64999999999975" y="670.003" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-26" value="or she can create new card&#xa;enter card serial number and amount" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.571;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-4" target="gzX4vs_TeUbCvZC3ZS7W-15">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-26" value="or she can create new card&#xa;enter card serial number and amount" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.528;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.021;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-3" target="gzX4vs_TeUbCvZC3ZS7W-16">
           <mxGeometry x="-0.1704" relative="1" as="geometry">
             <mxPoint x="300.96499999999963" y="697.4130000000001" as="sourcePoint" />
             <mxPoint x="617.0450000000001" y="698.5649999999999" as="targetPoint" />
@@ -119,6 +119,21 @@
           <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
             <mxPoint x="771.0050000000001" y="875.886" as="targetPoint" />
             <mxPoint x="926.0050000000001" y="876.96" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-29" value="validate and save in cashcard table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.962;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.513;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-16" target="gzX4vs_TeUbCvZC3ZS7W-13">
+          <mxGeometry x="-0.1049" y="-1" relative="1" as="geometry">
+            <mxPoint x="473.71000000000004" y="647.9839999999999" as="sourcePoint" />
+            <mxPoint x="927" y="647.9839999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-30" value="the card saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.472;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-13" target="gzX4vs_TeUbCvZC3ZS7W-15">
+          <mxGeometry x="0.2027" relative="1" as="geometry">
+            <mxPoint x="474" y="688.2" as="targetPoint" />
+            <mxPoint x="924.2799999999997" y="688.2" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
