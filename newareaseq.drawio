@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:35:03.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="IVSc71le6cjzhZjyD6mJ" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T18:36:25.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7nHZ6THEHDM5mIeoDKOq" version="14.2.9" type="github">
   <diagram id="BdLhvHQuExMGk_WIgmUb" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,49 +80,49 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-43" value="validate and save in meter table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.496;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mSrBGK9rT0nLxttDfopO-37">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-43" value="validate and save in area table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.496;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mSrBGK9rT0nLxttDfopO-37">
           <mxGeometry x="0.1321" relative="1" as="geometry">
             <mxPoint x="767.9999999999998" y="832" as="sourcePoint" />
             <mxPoint x="927" y="760" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-44" value="the meter saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.487;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.487;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-37" target="mSrBGK9rT0nLxttDfopO-35">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-44" value="the area saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.487;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.487;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-37" target="mSrBGK9rT0nLxttDfopO-35">
           <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
             <mxPoint x="607.5" y="860" as="targetPoint" />
             <mxPoint x="917.5" y="860" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-45" value="or she can create new meter by enter user id meter id and &#xa; inital amount&#xa; " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.203;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mSrBGK9rT0nLxttDfopO-36">
-          <mxGeometry x="-0.1606" y="-15" relative="1" as="geometry">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-45" value="then she can by enter&#xa;parameters id name&#xa;type and parent from city" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.203;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mSrBGK9rT0nLxttDfopO-36">
+          <mxGeometry x="-0.1606" y="5" relative="1" as="geometry">
             <mxPoint x="297.9999999999998" y="844.9999999999998" as="sourcePoint" />
             <mxPoint x="450.64999999999975" y="670.003" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-46" value="or she can create new card&#xa;enter card serial number and amount" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.528;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.021;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-27" target="mSrBGK9rT0nLxttDfopO-39">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-46" value="then she can by enter&#xa;parameters id name&#xa;type and parent will be null" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.528;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.021;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-27" target="mSrBGK9rT0nLxttDfopO-39">
           <mxGeometry x="-0.1704" relative="1" as="geometry">
             <mxPoint x="300.96499999999963" y="697.4130000000001" as="sourcePoint" />
             <mxPoint x="617.0450000000001" y="698.5649999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-47" value="validate and save in customer table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.971;exitY=0.392;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-33" target="mSrBGK9rT0nLxttDfopO-37">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-47" value="validate and save in Area table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.971;exitY=0.392;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-33" target="mSrBGK9rT0nLxttDfopO-37">
           <mxGeometry x="0.1321" relative="1" as="geometry">
             <mxPoint x="777.9999999999998" y="841.9999999999998" as="sourcePoint" />
             <mxPoint x="927.04" y="842.1199999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-48" value="the customer saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.472;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-37" target="mSrBGK9rT0nLxttDfopO-33">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-48" value="the city saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.472;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-37" target="mSrBGK9rT0nLxttDfopO-33">
           <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
             <mxPoint x="771.0050000000001" y="875.886" as="targetPoint" />
             <mxPoint x="926.0050000000001" y="876.96" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-49" value="validate and save in cashcard table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.962;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.513;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-39" target="mSrBGK9rT0nLxttDfopO-37">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-49" value="validate and save in Area table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.962;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.513;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-39" target="mSrBGK9rT0nLxttDfopO-37">
           <mxGeometry x="-0.1049" y="-1" relative="1" as="geometry">
             <mxPoint x="473.71000000000004" y="647.9839999999999" as="sourcePoint" />
             <mxPoint x="927" y="647.9839999999999" as="targetPoint" />
@@ -130,7 +130,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSrBGK9rT0nLxttDfopO-50" value="the card saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.472;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-37" target="mSrBGK9rT0nLxttDfopO-38">
+        <mxCell id="mSrBGK9rT0nLxttDfopO-50" value="the state saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.472;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mSrBGK9rT0nLxttDfopO-37" target="mSrBGK9rT0nLxttDfopO-38">
           <mxGeometry x="0.2027" relative="1" as="geometry">
             <mxPoint x="474" y="688.2" as="targetPoint" />
             <mxPoint x="924.2799999999997" y="688.2" as="sourcePoint" />
