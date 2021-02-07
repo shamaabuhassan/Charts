@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T02:02:53.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ZSKMIQxnLf85KxWn7_RH" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T02:04:01.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="h1TymiTSqhDmw7k-3pwl" version="14.2.9" type="github">
   <diagram id="7ZpU5WtPz9Lyks8QlIq6" name="Page-1">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,8 +32,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VspYirww-Cg1uWhshXMc-11" value="return the new code for meter&#xa;of snder otp and code &#xa;for the other after&#xa;a verfication message to &#xa;confirm process" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.478;entryY=0.644;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.05;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VspYirww-Cg1uWhshXMc-18" target="VspYirww-Cg1uWhshXMc-8">
-          <mxGeometry x="0.1163" y="-7" relative="1" as="geometry">
+        <mxCell id="VspYirww-Cg1uWhshXMc-11" value="return the new code for meter&#xa;of sender otp and code &#xa;for the other after&#xa;a verfication message to &#xa;confirm process and validations" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.478;entryY=0.644;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.05;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VspYirww-Cg1uWhshXMc-18" target="VspYirww-Cg1uWhshXMc-8">
+          <mxGeometry x="0.0337" y="-7" relative="1" as="geometry">
             <mxPoint x="300.5" y="750" as="targetPoint" />
             <mxPoint x="460" y="750" as="sourcePoint" />
             <mxPoint as="offset" />
