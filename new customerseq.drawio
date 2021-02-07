@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:19:08.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="BwUgNUuiyL_AmJjmwg9T" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T18:26:51.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="KwLuPcM4ckl4Qbk-HH00" version="14.2.9" type="github">
   <diagram id="mKXBBZF9e8lr7zKGx8BQ" name="Page-1">
-    <mxGraphModel dx="723" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-1">
           <mxGeometry x="45" y="80" width="10" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-3" value="charging processes" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-3" value="New Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="243" y="530" width="115" height="523" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-3">
-          <mxGeometry x="45" y="60" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="60" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-5" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry x="-0.1244" relative="1" as="geometry">
@@ -23,29 +23,29 @@
             <mxPoint x="917" y="987" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-6" value="user can " style="verticalAlign=bottom;endArrow=block;entryX=-0.2;entryY=0.55;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-2" target="gzX4vs_TeUbCvZC3ZS7W-4">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-6" value="user can choose to create " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="gzX4vs_TeUbCvZC3ZS7W-3">
           <mxGeometry x="-0.0353" y="10" relative="1" as="geometry">
-            <mxPoint x="218" y="610" as="sourcePoint" />
+            <mxPoint x="130" y="660" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-7" value="employee" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="13" y="638" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-8" value="transfering processes" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-8" value="new customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="530" width="122" height="533" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-8">
-          <mxGeometry x="45" y="110" width="10" height="40" as="geometry" />
+          <mxGeometry x="56" y="68" width="10" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-10" value="or she can" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.1;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-1">
-          <mxGeometry x="-0.1704" relative="1" as="geometry">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-10" value="then she can by enter&#xa;parameters username password&#xa;name area telephone and&#xa;others" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.218;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-4" target="gzX4vs_TeUbCvZC3ZS7W-8">
+          <mxGeometry x="0.0083" relative="1" as="geometry">
             <mxPoint x="298" y="672" as="sourcePoint" />
             <mxPoint x="444" y="670" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-11" value="Chargr Meters" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-11" value="new meter" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="530" width="115" height="534" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-11">
@@ -54,18 +54,11 @@
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-13" value="database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="530" width="115" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-14" value="request code entere meter id &#xa;,amount and card id " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.1;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="0.1321" relative="1" as="geometry">
-            <mxPoint x="120" y="750" as="sourcePoint" />
-            <mxPoint x="597" y="750" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-15" value="request code" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-15" value="new card" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="530" width="115" height="545" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-16" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="gzX4vs_TeUbCvZC3ZS7W-15">
-          <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
+          <mxGeometry x="52.5" y="188" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-17" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,27 +80,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-20" value="generate code and save data in topup table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.1;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-15">
-          <mxGeometry x="0.1321" relative="1" as="geometry">
-            <mxPoint x="440" y="750" as="sourcePoint" />
-            <mxPoint x="917" y="750" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-21" value="return code then you can charge it" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
-            <mxPoint x="607.5" y="714.5" as="targetPoint" />
-            <mxPoint x="917.5" y="714.5" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-22" value="user can request to charge meters which&#xa; has otp with status 0" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry x="0.1321" relative="1" as="geometry">
-            <mxPoint x="120" y="830" as="sourcePoint" />
-            <mxPoint x="760" y="829" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gzX4vs_TeUbCvZC3ZS7W-23" value="update topup data in topup&#xa;table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.496;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gzX4vs_TeUbCvZC3ZS7W-13">
           <mxGeometry x="0.1321" relative="1" as="geometry">
             <mxPoint x="768" y="832" as="sourcePoint" />
@@ -119,6 +91,34 @@
           <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
             <mxPoint x="607.5" y="860" as="targetPoint" />
             <mxPoint x="917.5" y="860" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-25" value="or she can" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.335;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-4" target="gzX4vs_TeUbCvZC3ZS7W-15">
+          <mxGeometry x="-0.1704" relative="1" as="geometry">
+            <mxPoint x="290.00499999999977" y="670.003" as="sourcePoint" />
+            <mxPoint x="450.64999999999975" y="670.003" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-26" value="or she can create new card&#xa;enter card serial number and amount" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.571;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-4" target="gzX4vs_TeUbCvZC3ZS7W-15">
+          <mxGeometry x="-0.1704" relative="1" as="geometry">
+            <mxPoint x="300.96499999999963" y="697.4130000000001" as="sourcePoint" />
+            <mxPoint x="617.0450000000001" y="698.5649999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-27" value="validate and save in customer table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.971;exitY=0.392;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-9" target="gzX4vs_TeUbCvZC3ZS7W-13">
+          <mxGeometry x="0.1321" relative="1" as="geometry">
+            <mxPoint x="777.9999999999998" y="841.9999999999998" as="sourcePoint" />
+            <mxPoint x="927.04" y="842.1199999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzX4vs_TeUbCvZC3ZS7W-28" value="the customer saved" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.472;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzX4vs_TeUbCvZC3ZS7W-13" target="gzX4vs_TeUbCvZC3ZS7W-9">
+          <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
+            <mxPoint x="771.0050000000001" y="875.886" as="targetPoint" />
+            <mxPoint x="926.0050000000001" y="876.96" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
