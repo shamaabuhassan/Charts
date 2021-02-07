@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:02:17.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="zrYI62d4nO_P6q_3aPv6" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T18:06:22.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="B2EF_7f6SCtqaMfriyT9" version="14.2.9" type="github">
   <diagram id="i2W4Exr456_p_HqFvZy4" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,13 +45,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4Bd2bIDhHa-jF-6KE4B-11" value="text" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
-          <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
-            <mxPoint x="298" y="710" as="targetPoint" />
-            <mxPoint x="608" y="710" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o4Bd2bIDhHa-jF-6KE4B-12" value="text" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" target="o4Bd2bIDhHa-jF-6KE4B-13" edge="1">
           <mxGeometry x="-0.0409" y="1" relative="1" as="geometry">
             <mxPoint x="302" y="861" as="sourcePoint" />
@@ -59,8 +52,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4Bd2bIDhHa-jF-6KE4B-13" value="text" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="o4Bd2bIDhHa-jF-6KE4B-13" value="Chargr Meters" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="530" width="115" height="534" as="geometry" />
+        </mxCell>
+        <mxCell id="xWoXMex0hgLuSaPrkEP0-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="o4Bd2bIDhHa-jF-6KE4B-13">
+          <mxGeometry x="52.5" y="280" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o4Bd2bIDhHa-jF-6KE4B-15" value="database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="530" width="115" height="520" as="geometry" />
@@ -109,6 +105,27 @@
           <mxGeometry x="-0.0409" y="1" relative="1" as="geometry">
             <mxPoint x="301" y="954" as="sourcePoint" />
             <mxPoint x="916" y="954" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWoXMex0hgLuSaPrkEP0-1" value="generate code and save data in topup table" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.1;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o4Bd2bIDhHa-jF-6KE4B-17">
+          <mxGeometry x="0.1321" relative="1" as="geometry">
+            <mxPoint x="440" y="750" as="sourcePoint" />
+            <mxPoint x="917" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWoXMex0hgLuSaPrkEP0-2" value="return code then you can charge it" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="0.1392" y="-5" relative="1" as="geometry">
+            <mxPoint x="607.5" y="714.5" as="targetPoint" />
+            <mxPoint x="917.5" y="714.5" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWoXMex0hgLuSaPrkEP0-3" value="user can request to charge meters which&#xa; has otp with status 0" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.522;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="o4Bd2bIDhHa-jF-6KE4B-13">
+          <mxGeometry x="0.1321" relative="1" as="geometry">
+            <mxPoint x="120" y="830" as="sourcePoint" />
+            <mxPoint x="597" y="830" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
